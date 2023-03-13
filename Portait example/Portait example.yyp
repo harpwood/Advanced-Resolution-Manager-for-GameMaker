@@ -1,0 +1,56 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "Portait example",
+  "resources": [
+    {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},"order":0,},
+    {"id":{"name":"s_tile_ui_2","path":"sprites/s_tile_ui_2/s_tile_ui_2.yy",},"order":2,},
+    {"id":{"name":"o_tile","path":"objects/o_tile/o_tile.yy",},"order":1,},
+    {"id":{"name":"s_tile_ui","path":"sprites/s_tile_ui/s_tile_ui.yy",},"order":1,},
+    {"id":{"name":"display_scripts","path":"scripts/display_scripts/display_scripts.yy",},"order":0,},
+    {"id":{"name":"s_icon","path":"sprites/s_icon/s_icon.yy",},"order":2,},
+    {"id":{"name":"o_init","path":"objects/o_init/o_init.yy",},"order":0,},
+    {"id":{"name":"License","path":"notes/License/License.yy",},"order":13,},
+    {"id":{"name":"s_tile","path":"sprites/s_tile/s_tile.yy",},"order":0,},
+    {"id":{"name":"rm_tiles","path":"rooms/rm_tiles/rm_tiles.yy",},"order":1,},
+  ],
+  "Options": [
+    {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
+    {"roomId":{"name":"rm_tiles","path":"rooms/rm_tiles/rm_tiles.yy",},},
+  ],
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy","order":11,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy","order":12,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy","order":7,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Display Scripts","folderPath":"folders/Scripts/Display Scripts.yy","order":1,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Spites","folderPath":"folders/Spites.yy","order":10,},
+  ],
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.0.0.19",
+  },
+}
